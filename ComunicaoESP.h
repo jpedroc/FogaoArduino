@@ -1,4 +1,4 @@
-#ifdef COMUNICACAOESP
+#ifndef COMUNICACAOESP
 #define COMUNICACAOESP
 
 class ComunicacaoESP {
@@ -6,4 +6,4 @@ class ComunicacaoESP {
         ComunicacaoESP();
 };
 
-#define COMUNICACAOESP
+#endif COMUNICACAOESP
